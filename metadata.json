@@ -1,0 +1,5 @@
+{
+  "name": "OpsLog AI - Computer Operator Logbook",
+  "description": "A comprehensive logbook application for computer control operators to record daily activities, system statuses, and incidents. Features AI-powered summaries for supervisors.",
+  "requestFramePermissions": []
+}
